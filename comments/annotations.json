@@ -1,0 +1,34 @@
+{
+  "comments": [
+    {
+      "canvasID": "s-17e4bed0-0ad5-499b-964e-87ba39cbbbeb",
+      "elementID": "s-Rectangle_2",
+      "canvasURL": "screens/17e4bed0-0ad5-499b-964e-87ba39cbbbeb",
+      "author": "manoj.periathambi@newgen.co",
+      "authorID" : 51590303,
+      "code": 1,
+      "parentCode": null,
+      "content": "When there is no customer data this component will be shown asking for traces credentials and customer data csv file",
+      "timestamp": "1617183901744",
+      "date": "March 31, 2021, 3:15 PM",
+      "fileID": "",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "author": "manoj.periathambi@newgen.co",
+      "authorID" : 51590303,
+      "code": 2,
+      "parentCode": null,
+      "content": "If vendor data is already present, this is the screen user will see first.",
+      "timestamp": "1617184021684",
+      "date": "March 31, 2021, 3:17 PM",
+      "fileID": "",
+      "fileName": "",
+      "isRead": true
+    }
+  ]
+}
